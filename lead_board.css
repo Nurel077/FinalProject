@@ -4,13 +4,21 @@
       margin: 0;
       padding: 20px;
     } */
-    body {
+    /* body {
       margin: 0;
-      background:#fff;
+      background:#150505;
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
+    } */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #1e1e2f;
+      color: #03060c;
+      /* font-family: 'Segoe UI', sans-serif; */
     }
+    
     .button{
       background: #2c3e50;
     color: #ecf0f1;
@@ -23,16 +31,31 @@
     }
    
     h1 {
+      font-size: 36px;
       text-align: center;
+      margin-top: 20px;
+      color: #757e93; /* Dark Gray */
+      font-family: 'Georgia', serif;
     }
-    .leaderboard-container {
+    
+    /* .leaderboard-container {
       max-width: 500px;
       margin: 0 auto;
       background: #fff;
       border-radius: 10px;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    } */
+    .leaderboard-container {
+      max-width: 600px;
+      margin: 40px auto;
+      background-color: #f9fafb;
+      border-radius: 20px;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+      padding: 30px;
+      font-family: 'Segoe UI', sans-serif;
     }
+    
     .difficulty-section {
       margin-bottom: 30px;
     }
