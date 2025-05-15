@@ -1,0 +1,47 @@
+    /* body {
+      font-family: Arial, sans-serif;
+     
+      margin: 0;
+      padding: 20px;
+    } */
+    body {
+      margin: 0;
+      background:#fff;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+    .button{
+      background: #2c3e50;
+    color: #ecf0f1;
+    padding: 8px 15px;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+    }
+   
+    h1 {
+      text-align: center;
+    }
+    .leaderboard-container {
+      max-width: 500px;
+      margin: 0 auto;
+      background: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .difficulty-section {
+      margin-bottom: 30px;
+    }
+    ul {
+      padding: 0;
+      list-style: none;
+    }
+    li {
+      padding: 5px 0;
+      border-bottom: 1px solid #ddd;
+    }
+
