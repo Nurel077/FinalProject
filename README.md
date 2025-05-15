@@ -70,7 +70,7 @@ cd Minesweeper
 - [JavaScript Minesweeper Tutorial](https://www.youtube.com/watch?v=1y_yWxuApkw&t=27s) — видеоурок по созданию Сапёра (YouTube).
 - [Stack Overflow](https://stackoverflow.com/) — ответы на технические вопросы по реализации логики игры.
 - [GitHub Pages Documentation](https://docs.github.com/en/pages) — как задеплоить сайт на GitHub Pages.
-- @aktanskiy helped us by explainng rules of the game
+- @aktanskiy05 helped us by explainng rules of the game
 - 
 
 
